@@ -62,3 +62,4 @@ NOTE
 ----
 The included pipeline deploys locally by default. Cloud deployment is only performed after AWS is
 configured. For a college demo, show Jenkins stage results and the app running at localhost:3000.
+Pipeline test.
